@@ -1,0 +1,24 @@
+{
+  "name": "web-platform-test-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathansamines/web-platform-test-sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonathansamines/web-platform-test-sandbox/issues"
+  },
+  "homepage": "https://github.com/jonathansamines/web-platform-test-sandbox#readme",
+  "volta": {
+    "node": "16.13.1"
+  }
+}
